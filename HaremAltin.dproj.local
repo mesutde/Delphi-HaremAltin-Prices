@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <Transactions>
+    <Transaction>2024.12.07 15:37:51.289,=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.12.07 15:49:08.209,D:\Yazılım\Delphi\Delphi Harem Altin\frmMainForm.pas=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024.12.07 15:49:08.209,D:\Yazılım\Delphi\Delphi Harem Altin\frmMainForm.dfm=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024.12.07 15:49:19.866,D:\Yazılım\Delphi\Delphi Harem Altin\HaremAltin.dproj=C:\Users\mesut\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024.12.07 15:49:41.470,=D:\Yazılım\Delphi\Delphi Harem Altin\Unit1.pas</Transaction>
+    <Transaction>2024.12.07 15:49:53.165,D:\Yazılım\Delphi\Delphi Harem Altin\HaremDataUnit.pas=D:\Yazılım\Delphi\Delphi Harem Altin\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
